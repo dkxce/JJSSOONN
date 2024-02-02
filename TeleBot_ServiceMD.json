@@ -3,5 +3,9 @@
   "Staff": 
   {
     "5288789315": "Admin"
-  }
+  },
+  "Services": [
+    "guardproapp_react.service",
+    "nginx.service"
+  ]
 }
