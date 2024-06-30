@@ -6,7 +6,7 @@
 	[
 		{ "ID": "39616814835269360468340", "Name": "RTT_APTEM", "Url": "67716814835872153167687", "Show": true,  "Map64": true, "Symbol": "\\v", "Account": "u..b"},
 		{ "ID": "63515901450646248517251", "Name": "APTEM",     "Url": "31115925493663165317887", "Show": false, "Map64": true, "Symbol": "\\k", "Account": "d..e"},
-		{ "ID": "74915975838321868801228", "Name": "47RUZA",    "Url": "67415975838504902429266", "Show": false, "Map64": true, "Symbol": "/<",  "Account": "m..z"},		
+		{ "ID": "74915975838321868801228", "Name": "47RUZA",    "Url": "67415975838504902429266", "Show": true,  "Map64": true, "Symbol": "/<",  "Account": "m..z"},		
 		{ "ID": "21117134354651073199441", "Name": "RTT_A_M50", "Url": "21117134354651073199441", "Show": false, "Map64": true, "Symbol": "/>",  "Account": "u..b"},
 				
 		{ "ID": "92415901456521569128103", "Name": "ANN",       "Url": "91517110020701986461385", "Show": false, "Map64": true, "Symbol": "/[",  "Account": "d..e"},
